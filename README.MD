@@ -25,7 +25,6 @@ Users are solely responsible for ensuring compliance with applicable laws, regul
 **仅供个人学习与技术研究使用。**
 
 # 网易云音乐 API
-# 网易云音乐 API
 
 网易云音乐 Node.js API service
 
