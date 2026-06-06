@@ -1,3 +1,30 @@
+# Disclaimer / 免责声明
+
+## English
+
+This project is provided for educational, research and interoperability purposes only.
+
+No commercial authorization is granted through this repository.
+
+Users are solely responsible for ensuring compliance with applicable laws, regulations, copyright requirements and service agreements.
+
+---
+
+## 中文
+
+本项目仅供个人学习、技术研究、接口兼容性测试及学术交流使用。
+
+本仓库不提供任何商业授权。
+
+使用者应自行确保其使用行为符合相关法律法规、版权要求及服务协议。
+
+---
+
+**For educational and research purposes only.**
+
+**仅供个人学习与技术研究使用。**
+
+# 网易云音乐 API
 # 网易云音乐 API
 
 网易云音乐 Node.js API service
